@@ -1,0 +1,2 @@
+# micproblem-kali
+seskayitproblemi-kalilinux
